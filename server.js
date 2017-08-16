@@ -40,7 +40,7 @@ var articles = {
                     
                     <p>Hi! I am Sahil.I'm a web developer.Hi! I am Sahil.I'm a web developer .Hi! I am Sahil.I'm a web developer 
                     Hi! I am Sahil.I'm a web developer .Hi! I am Sahil.I'm a web developer .</p>`
-    };
+    }
 }
 
 function createTemplate (data) {
