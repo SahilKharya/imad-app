@@ -15,7 +15,7 @@ var articles {
                     <p>Someone is here.</p>
                     
                     <p>Someone : "Hi! I am Sahil.I'm a web developer."</p>`
-    },
+    };
     'article-two' = {
         title: 'Article Two | Sahil Kharya',
         heading: 'Article-Two',
@@ -27,7 +27,7 @@ var articles {
                     <p>Hi! I am Sahil.I'm a web developer.Hi! I am Sahil.I'm a web developer .Hi! I am Sahil.I'm a web developer 
                     Hi! I am Sahil.I'm a web developer .Hi! I am Sahil.I'm a web developer .</p>
                     `
-    },
+    };
     'article-three' = {
         title: 'Article Three | Sahil Kharya',
         heading: 'Article-Three',
@@ -40,8 +40,8 @@ var articles {
                     
                     <p>Hi! I am Sahil.I'm a web developer.Hi! I am Sahil.I'm a web developer .Hi! I am Sahil.I'm a web developer 
                     Hi! I am Sahil.I'm a web developer .Hi! I am Sahil.I'm a web developer .</p>`
-    }
-};
+    };
+}
 
 function createTemplate (data) {
     var title =data.title;
